@@ -9,6 +9,10 @@
   </DataSources>
   <DataSets>
     <ProjectItem>
+      <Name>dsBalanceByContractForYear.rsd</Name>
+      <FullPath>dsBalanceByContractForYear.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>dsContractPaymentsForYear.rsd</Name>
       <FullPath>dsContractPaymentsForYear.rsd</FullPath>
     </ProjectItem>
@@ -17,14 +21,22 @@
       <FullPath>DsYearList.rsd</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>dsBalanceByContractForYear.rsd</Name>
-      <FullPath>dsBalanceByContractForYear.rsd</FullPath>
+      <Name>DSBalanceByRegion.rsd</Name>
+      <FullPath>DSBalanceByRegion.rsd</FullPath>
     </ProjectItem>
   </DataSets>
   <Reports>
     <ProjectItem>
       <Name>ReportPaymYear.rdl</Name>
       <FullPath>ReportPaymYear.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ReportBalanceForYear.rdl</Name>
+      <FullPath>ReportBalanceForYear.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ReportBalanceByRegion.rdl</Name>
+      <FullPath>ReportBalanceByRegion.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>

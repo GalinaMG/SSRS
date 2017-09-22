@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "KEAccPaym", "KEAccPaym\KEAccPaym.rptproj", "{2127376B-4BC1-4C70-A2A6-23E4E59D617A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2127376B-4BC1-4C70-A2A6-23E4E59D617A}.Debug|Default.ActiveCfg = Debug
+		{2127376B-4BC1-4C70-A2A6-23E4E59D617A}.Debug|Default.Build.0 = Debug
+		{2127376B-4BC1-4C70-A2A6-23E4E59D617A}.Debug|Default.Deploy.0 = Debug
+		{2127376B-4BC1-4C70-A2A6-23E4E59D617A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2127376B-4BC1-4C70-A2A6-23E4E59D617A}.DebugLocal|Default.Build.0 = DebugLocal
+		{2127376B-4BC1-4C70-A2A6-23E4E59D617A}.Release|Default.ActiveCfg = Release
+		{2127376B-4BC1-4C70-A2A6-23E4E59D617A}.Release|Default.Build.0 = Release
+		{2127376B-4BC1-4C70-A2A6-23E4E59D617A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6FBA162-FEB5-4965-BEF3-770623C39FFD}
+	EndGlobalSection
+EndGlobal
